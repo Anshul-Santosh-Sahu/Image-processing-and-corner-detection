@@ -59,8 +59,3 @@ Below are the sample images used:
 ## 📜 License
 
 This project is for educational purposes only.
-```
-
----
-
-Let me know if you'd like me to generate the `README.md` file for download directly.
